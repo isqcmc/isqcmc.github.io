@@ -1,4 +1,4 @@
-Welcome to the page for the **International Symposium on Quantum Computing and Musical Creativity**
+Welcome to the page for the **ISQCMC**!
 
 &nbsp;
 <p align="center">
