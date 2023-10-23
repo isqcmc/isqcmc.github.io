@@ -1,6 +1,16 @@
 Welcome to the page for the **ISQCMC**!
 
 &nbsp;
+&nbsp;
+<h3 align ="center"><strong> Proceedings </strong></h3>
+<p align="center">
+  <a href="/Proceedings"><strong> ISQCMC Proceedings </strong></a>
+  <br>
+</p>
+<br>
+<br>
+<h3 align="center"><strong> Previous ISQCMC Editions </strong></h3>
+&nbsp;
 <p align="center">
   <a href="/2023">2023 - ISQCMC Berlin</a>
   <br>
