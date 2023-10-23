@@ -1,8 +1,8 @@
 Welcome to the page for the **ISQCMC**!
 
 &nbsp;
-&nbsp;
 <h3 align ="center"><strong> Proceedings </strong></h3>
+&nbsp;
 <p align="center">
   <a href="/Proceedings"><strong> ISQCMC Proceedings </strong></a>
   <br>
