@@ -24,7 +24,7 @@
   
 - Topel, S., Kuklinski, P. (2023). _Quantum Circuit Simulations on Multi-Channel Sound Systems_. **PDF/DOI: [10.5281/zenodo.10206646](https://doi.org/10.5281/zenodo.10206646)** <button class="tooltip" onclick="copyBibTeX(this, 'ISQCMC_topel')" onmouseout="tooltipsOut(this)"><span class="tooltiptext">Copied to clipboard!</span>BibTeX <i class="fa fa-copy"></i></button>
   
-- Uktu, E. (2023). _Constrained Randomness in Musical Form Using Quantum Computational Algorithms_. **PDF/DOI: [10.5281/zenodo.10206642](https://doi.org/10.5281/zenodo.10206642)** <button class="tooltip" onclick="copyBibTeX(this, 'ISQCMC_uktu')" onmouseout="tooltipsOut(this)"><span class="tooltiptext">Copied to clipboard!</span>BibTeX <i class="fa fa-copy"></i></button>
+- Utku, E. (2023). _Constrained Randomness in Musical Form Using Quantum Computational Algorithms_. **PDF/DOI: [10.5281/zenodo.10206642](https://doi.org/10.5281/zenodo.10206642)** <button class="tooltip" onclick="copyBibTeX(this, 'ISQCMC_utku')" onmouseout="tooltipsOut(this)"><span class="tooltiptext">Copied to clipboard!</span>BibTeX <i class="fa fa-copy"></i></button>
   
 - Wootton, J., Pfaffhauser, M. (2023). _Investigating the usefulness of Quantum Blur_. **PDF/DOI: [10.5281/zenodo.10206640](https://doi.org/10.5281/zenodo.10206640)** <button class="tooltip" onclick="copyBibTeX(this, 'ISQCMC_wootton')" onmouseout="tooltipsOut(this)"><span class="tooltiptext">Copied to clipboard!</span>BibTeX <i class="fa fa-copy"></i></button>
   
