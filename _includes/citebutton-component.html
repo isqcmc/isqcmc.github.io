@@ -1,0 +1,25 @@
+<script>
+class CiteButton extends HTMLElement {
+  constructor() {
+    super();
+  }
+  connectedCallback() {
+    const observedAttributes = this.getAttribute("indexkey");
+    this.innerHTML = `
+      <a class="citebutton"><span class="tooltiptext">Copied to clipboard!</span><i style="font-size:13px; padding: 2px;" class="fa fa-copy"></i><select style="font-size:13px; border: 0; background: transparent;"  onchange="copyCitation(this, this.parentElement, '`+observedAttributes+`')">
+  <option>Cite Me...</option>
+  <option value="BibTeX">BibTeX</option>
+  <option value="APA">APA</option>
+  <option value="Harvard">Harvard</option>
+  <option value="MLA">MLA</option>
+  <option value="Vancouver">Vancouver</option>
+  <option value="Chicago">Chicago</option>
+  <option value="IEEE">IEEE</option>
+</select>
+</a>
+    `;
+  }
+}
+
+customElements.define('citebutton-component', CiteButton);
+</script>
