@@ -17,13 +17,17 @@
     }
   }
   
-  .tooltip {
+  .citebutton {
+    background: rgb(220, 220, 220); 
+    vertical-align: middle; 
+    padding: auto; 
+    margin: auto;
     position: relative;
     display: inline-block;
-    font-size:12px;
   }
 
-  .tooltip .tooltiptext {
+  .citebutton .tooltiptext {
+    font-size:12px;
     visibility: hidden;
     width: 130px;
     background-color: #555;
@@ -37,10 +41,10 @@
     left: 50%;
     margin-left: -75px;
     opacity: 0;
-    transition: opacity 0.3s;
+    transition: opacity 0.5s;
   }
 
-  .tooltip .tooltiptext::after {
+  .citebutton .tooltiptext::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -51,7 +55,7 @@
     border-color: #555 transparent transparent transparent;
   }
 
-  .tooltip:hover .tooltiptext {
+  .citebutton:hover .tooltiptext {
     visibility: visible;
     opacity: 0;
   }
