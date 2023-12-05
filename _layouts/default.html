@@ -30,6 +30,8 @@
           copyText = chicagoISQCMC[item];
         } else if (elem.value == "IEEE") {
           copyText = ieeeISQCMC[item];
+        } else {
+          return;
         }
         navigator.clipboard.writeText(copyText);
         parent.firstChild.style.visibility = 'visible';
