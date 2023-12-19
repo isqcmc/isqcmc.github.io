@@ -14,8 +14,6 @@
   
 - Miranda, E. R., Shaji, H. V. (2023). _Developing Quantum Reservoir Computing as Machine Learning of Music_. **PDF/DOI: [10.5281/zenodo.10206712](https://doi.org/10.5281/zenodo.10206712)** <citebutton-component indexkey="ISQCMC_miranda"></citebutton-component>
   
-- Meichanetzidis, K. (2023). _Quantum Music Generators_. **PDF/DOI: TBA** <!-- <button class="tooltip" onclick="copyBibTeX(this, 'ISQCMC_meichanetzidis')" onmouseout="tooltipsOut(this)"><span class="tooltiptext">Copied to clipboard!</span>BibTeX <i class="fa fa-copy"></i></button> -->
-  
 - Rocchesso, D. (2023). _Exploration of Quantum Feedback Delay Networks_. **PDF/DOI: [10.5281/zenodo.10206705](https://doi.org/10.5281/zenodo.10206705)** <citebutton-component indexkey="ISQCMC_rocchesso"></citebutton-component>
   
 - Schwarzer, A. (2023). _Quantum Harmonies: An Artistic Exploration of Geiger Counter Measurements and Simulated Quantum Circuitry_. **PDF/DOI: [10.5281/zenodo.10206695](https://doi.org/10.5281/zenodo.10206695)** <citebutton-component indexkey="ISQCMC_schwarzer"></citebutton-component>
