@@ -2,6 +2,8 @@
 
 ### 2023 - ISQCMC Berlin - Paper Proceedings
 
+Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo. [https://isqcmc.github.io/Proceedings](https://isqcmc.github.io/Proceedings) <citebutton-component indexkey="ISQCMC_BerlinProceedings"></citebutton-component>
+
 - Alani, A. (2023). _Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz_. **PDF/DOI: [10.5281/zenodo.10206742](https://doi.org/10.5281/zenodo.10206742)** <citebutton-component indexkey="ISQCMC_alani"></citebutton-component>
 
 - Carney, M. (2023). _Quid Manumit - Freeing the Qubit for Art Embedded Quantum Simulators for Musical Instruments_. **PDF/DOI: [10.5281/zenodo.10206737](https://doi.org/10.5281/zenodo.10206737)** <citebutton-component indexkey="ISQCMC_carney"></citebutton-component>
