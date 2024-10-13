@@ -34,3 +34,8 @@ Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd interna
   
 - Yáñez, M. A. (2023). _Developing a Quantum Step-sequencer_. **PDF/DOI: [10.5281/zenodo.10206500](https://doi.org/10.5281/zenodo.10206500)** <citebutton-component indexkey="ISQCMC_yanez"></citebutton-component>
 
+### 2021 - 1st ISQCMC - Paper Proceedings
+
+Paper Proceedings for this edition are not available. However, please note that several papers from this edition have evolved into book chapters in:
+
+- Miranda, E. R. (Ed.). (2022). Quantum Computer Music: Foundations, Methods and Advanced Concepts. Springer International Publishing. [https://doi.org/10.1007/978-3-031-13909-3](https://doi.org/10.1007/978-3-031-13909-3) <citebutton-component indexkey="QuantumComputerMusic2022"></citebutton-component>
