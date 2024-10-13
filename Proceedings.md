@@ -1,5 +1,7 @@
 ## ISQCMC Proceedings
 
+Below you will see the index of individual papers for each ISQCMC Proceedings edition. Please note that PDFs are archived in the [Zenodo Community portal](https://zenodo.org/communities/isqcmc_proceedings/).
+
 ### 2023 - ISQCMC Berlin - Paper Proceedings
 
 Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo. [https://isqcmc.github.io/Proceedings](https://isqcmc.github.io/Proceedings) <citebutton-component indexkey="ISQCMC_BerlinProceedings"></citebutton-component>
