@@ -1,6 +1,10 @@
 ## ISQCMC Proceedings
 
+Below you will see the index of individual papers for each ISQCMC Proceedings edition. Please note that PDFs are archived in the [Zenodo Community portal](https://zenodo.org/communities/isqcmc_proceedings/).
+
 ### 2023 - ISQCMC Berlin - Paper Proceedings
+
+Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo. [https://isqcmc.github.io/Proceedings](https://isqcmc.github.io/Proceedings) <citebutton-component indexkey="ISQCMC_BerlinProceedings"></citebutton-component>
 
 - Alani, A. (2023). _Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz_. **PDF/DOI: [10.5281/zenodo.10206742](https://doi.org/10.5281/zenodo.10206742)** <citebutton-component indexkey="ISQCMC_alani"></citebutton-component>
 
@@ -30,3 +34,8 @@
   
 - Yáñez, M. A. (2023). _Developing a Quantum Step-sequencer_. **PDF/DOI: [10.5281/zenodo.10206500](https://doi.org/10.5281/zenodo.10206500)** <citebutton-component indexkey="ISQCMC_yanez"></citebutton-component>
 
+### 2021 - 1st ISQCMC - Paper Proceedings
+
+Paper Proceedings for this edition are not available. However, please note that several papers from this edition have evolved into book chapters in:
+
+- Miranda, E. R. (Ed.). (2022). Quantum Computer Music: Foundations, Methods and Advanced Concepts. Springer International Publishing. [https://doi.org/10.1007/978-3-031-13909-3](https://doi.org/10.1007/978-3-031-13909-3) <citebutton-component indexkey="QuantumComputerMusic2022"></citebutton-component>

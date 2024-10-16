@@ -1,5 +1,17 @@
 <script type="text/javascript">
 	var bibtexISQCMC = {
+	    ISQCMC_BerlinProceedings: `@proceedings{ISQCMC_BerlinProceedings,
+	    title = {Proceedings of the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin)},
+	    editor = {Hamido, Omar Costa and Itaboraí, Paulo Vitor},
+	    url = {https://isqcmc.github.io/Proceedings},
+	    publisher = {Zenodo},
+	    address = {Berlin},
+	    booktitle = {2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin)},
+	    day = {05},
+	    month = {October},
+	    year = {2023}
+	    }`,
+	    
 	    ISQCMC_alani: `@inproceedings{ISQCMC_alani,
 	    title = {Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz},
 	    author = {Alani, Alex},
@@ -193,10 +205,27 @@
 	    day = {05},
 	    month = {October},
 	    year = {2023}
-	    }`
+	    }`,
+
+	    QuantumComputerMusic2022: `@book{QuantumComputerMusic2022,
+		address = {Cham},
+		title = {Quantum {Computer} {Music}: {Foundations}, {Methods} and {Advanced} {Concepts}},
+		isbn = {978-3-031-13908-6 978-3-031-13909-3},
+		shorttitle = {Quantum {Computer} {Music}},
+		url = {https://link.springer.com/10.1007/978-3-031-13909-3},
+		language = {en},
+		urldate = {2022-11-01},
+		publisher = {Springer International Publishing},
+		editor = {Miranda, Eduardo Reck},
+		year = {2022},
+		doi = {10.1007/978-3-031-13909-3},
+		keywords = {Quantum Computer, Quantum Computing, Artificial Intelligence and Music, Computer Music, Computer-aided Music Composition, IBM Quantum, Music Technology, Photonic Quantum Computing, Qiskit, Quantum AI, Quantum Artificial Intelligence, Quantum Arts, Quantum Computer Music, Quantum Computing and Creativity, Quantum Creativity, Quantum Music, Rigetti, Xanadu},
+		}`
 	}
 	
 	var apaISQCMC = {
+	    ISQCMC_BerlinProceedings: `Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo. https://isqcmc.github.io/Proceedings`,
+
 	    ISQCMC_alani: `Alani, A. (2023, October 5). Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin. https://doi.org/10.5281/zenodo.10206742`,
 
 	    ISQCMC_carney: `Carney, M. (2023, October 5). Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin. https://doi.org/10.5281/zenodo.10206737`,
@@ -225,10 +254,14 @@
 
 	    ISQCMC_yamada: `Yamada, R., Piñol, E., Grandi, S., Zakrzewski, J., & Lewenstein, M. (2023, October 5). Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner functions, and Quantum Simulators. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin. https://doi.org/10.5281/zenodo.10206508`,
 
-	    ISQCMC_yanez: `Yáñez, M. A. (2023, October 5). Developing a Quantum Step-sequencer. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin. https://doi.org/10.5281/zenodo.10206500`
+	    ISQCMC_yanez: `Yáñez, M. A. (2023, October 5). Developing a Quantum Step-sequencer. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin. https://doi.org/10.5281/zenodo.10206500`,
+
+	    QuantumComputerMusic2022: `Miranda, E. R. (Ed.). (2022). Quantum Computer Music: Foundations, Methods and Advanced Concepts. Springer International Publishing. https://doi.org/10.1007/978-3-031-13909-3`
 	}
 	
 	var harvardISQCMC = {
+	    ISQCMC_BerlinProceedings: `Hamido, O.C., Itaboraí, P.V. (Eds.), 2023. Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo, Berlin.`,
+
 	    ISQCMC_alani: `Alani, A. (2023) “Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz”. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Zenodo. doi: 10.5281/zenodo.10206742.`,
 
 	    ISQCMC_carney: `Carney, M. (2023) “Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments”. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Zenodo. doi: 10.5281/zenodo.10206737.`,
@@ -257,10 +290,14 @@
 
 	    ISQCMC_yamada: `Yamada, R. (2023) “Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner functions, and Quantum Simulators”. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Zenodo. doi: 10.5281/zenodo.10206508.`,
 
-	    ISQCMC_yanez: `Yáñez, M. A. (2023) “Developing a Quantum Step-sequencer”. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Zenodo. doi: 10.5281/zenodo.10206500.`
+	    ISQCMC_yanez: `Yáñez, M. A. (2023) “Developing a Quantum Step-sequencer”. 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Zenodo. doi: 10.5281/zenodo.10206500.`,
+
+	    QuantumComputerMusic2022: `Miranda, E.R. (ed.) (2022) Quantum Computer Music: Foundations, Methods and Advanced Concepts. Cham: Springer International Publishing. Available at: https://doi.org/10.1007/978-3-031-13909-3.`
 	}
 	
 	var mlaISQCMC = {
+	    ISQCMC_BerlinProceedings: `Hamido, Omar Costa, and Paulo Vitor Itaboraí, editors. Proceedings of the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin). Zenodo, 2023, https://isqcmc.github.io/Proceedings.`,
+
 	    ISQCMC_alani: `Alani, A. Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz. Zenodo, 2023, doi:10.5281/zenodo.10206742.`,
 
 	    ISQCMC_carney: `Carney, M. Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments. Zenodo, 2023, doi:10.5281/zenodo.10206737.`,
@@ -289,10 +326,14 @@
 
 	    ISQCMC_yamada: `Yamada, R., et al. Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner Functions, and Quantum Simulators. Zenodo, 2023, doi:10.5281/zenodo.10206508.`,
 
-	    ISQCMC_yanez: `Yáñez, M. A. Developing a Quantum Step-sequencer. Zenodo, 2023, doi:10.5281/zenodo.10206500.`
+	    ISQCMC_yanez: `Yáñez, M. A. Developing a Quantum Step-sequencer. Zenodo, 2023, doi:10.5281/zenodo.10206500.`,
+
+	    QuantumComputerMusic2022: `Miranda, Eduardo Reck, editor. Quantum Computer Music: Foundations, Methods and Advanced Concepts. Springer International Publishing, 2022. DOI.org (Crossref), https://doi.org/10.1007/978-3-031-13909-3.`
 	}
 	
 	var vancouverISQCMC = {
+	    ISQCMC_BerlinProceedings: `1. Hamido OC, Itaboraí PV, editors. Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). In Berlin: Zenodo; 2023. Available from: https://isqcmc.github.io/Proceedings`,
+
 	    ISQCMC_alani: `1. Alani A. Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz. Zenodo; 2023.`,
 
 	    ISQCMC_carney: `1. Carney M. Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments. Zenodo; 2023.`,
@@ -321,10 +362,14 @@
 
 	    ISQCMC_yamada: `1. Yamada R, Piñol E, Grandi S, Zakrzewski J, Lewenstein M. Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner functions, and Quantum Simulators. Zenodo; 2023. `,
 
-	    ISQCMC_yanez: `1. Yáñez MA. Developing a Quantum Step-sequencer. Zenodo; 2023. `
+	    ISQCMC_yanez: `1. Yáñez MA. Developing a Quantum Step-sequencer. Zenodo; 2023. `,
+
+	    QuantumComputerMusic2022: `1. Miranda ER, editor. Quantum Computer Music: Foundations, Methods and Advanced Concepts [Internet]. Cham: Springer International Publishing; 2022 [cited 2022 Nov 1]. Available from: https://link.springer.com/10.1007/978-3-031-13909-3`
 	}
 	
 	var chicagoISQCMC = {
+	    ISQCMC_BerlinProceedings: `Hamido, Omar Costa, and Paulo Vitor Itaboraí, eds. 2023. “Proceedings of the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin).” Berlin: Zenodo. https://isqcmc.github.io/Proceedings.`,
+
 	    ISQCMC_alani: `Alani, Alex. “Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz”. Zenodo, 2023. https://doi.org/10.5281/zenodo.10206742.`,
 
 	    ISQCMC_carney: `Carney, Mark. “Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments”. Zenodo, 2023. https://doi.org/10.5281/zenodo.10206737.`,
@@ -353,39 +398,45 @@
 
 	    ISQCMC_yamada: `Yamada, Reiko, Eloy Piñol, Samuele Grandi, Jakub Zakrzewski, and Maciej Lewenstein. “Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner Functions, and Quantum Simulators”. Zenodo, 2023. https://doi.org/10.5281/zenodo.10206508.`,
 
-	    ISQCMC_yanez: `Yáñez, María Aguado. “Developing a Quantum Step-sequencer”. Zenodo, 2023. https://doi.org/10.5281/zenodo.10206500.`
+	    ISQCMC_yanez: `Yáñez, María Aguado. “Developing a Quantum Step-sequencer”. Zenodo, 2023. https://doi.org/10.5281/zenodo.10206500.`,
+
+	    QuantumComputerMusic2022: `Miranda, Eduardo Reck, ed. 2022. Quantum Computer Music: Foundations, Methods and Advanced Concepts. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-13909-3.`
 	}
 	
 	var ieeeISQCMC = {
-	    ISQCMC_alani: `[1]A. Alani, “Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206742.`,
+	    ISQCMC_BerlinProceedings: `[1] O. C. Hamido and P. V. Itaboraí, Eds., “Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin),” Berlin: Zenodo, 2023. [Online]. Available: https://isqcmc.github.io/Proceedings`,
 
-	    ISQCMC_carney: `[1]M. Carney, “Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206737.`,
+	    ISQCMC_alani: `[1] A. Alani, “Sonifying Quantum Decoherence on IBM Quantum Devices: Mapping T1 Decoherence Values from Microseconds to Hertz”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206742.`,
 
-	    ISQCMC_evgi: `[1]H. H. B. Evgi, “Physical Models of Quantum Music”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206733.`,
+	    ISQCMC_carney: `[1] M. Carney, “Quid Manumit - Freeing the Qubit for Art: Embedded Quantum Simulators for Musical Instruments”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206737.`,
 
-	    ISQCMC_itaborai: `[1]P. V. Itaboraí, “Variational Quantum Harmonizer: Generating Chord Progressions and Other Sonification Methods with the VQE Algorithm”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206731.`,
+	    ISQCMC_evgi: `[1] H. H. B. Evgi, “Physical Models of Quantum Music”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206733.`,
 
-	    ISQCMC_mannone: `[1]M. Mannone and O. C. Hamido, “Quantum Memory of Musical Compositions”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206714.`,
+	    ISQCMC_itaborai: `[1] P. V. Itaboraí, “Variational Quantum Harmonizer: Generating Chord Progressions and Other Sonification Methods with the VQE Algorithm”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206731.`,
 
-	    ISQCMC_miranda: `[1]E. R. Miranda and H. Shaji, “Developing Quantum Reservoir Computing as Machine Learning of Music”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206712.`,
+	    ISQCMC_mannone: `[1] M. Mannone and O. C. Hamido, “Quantum Memory of Musical Compositions”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206714.`,
 
-	    ISQCMC_meichanetzidis: `[1]K. Meichanetzidis, “Quantum Music Generators”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206707.`,
+	    ISQCMC_miranda: `[1] E. R. Miranda and H. Shaji, “Developing Quantum Reservoir Computing as Machine Learning of Music”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206712.`,
 
-	    ISQCMC_rocchesso: `[1]D. Rocchesso, “Exploration of Quantum Feedback Delay Networks”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206705.`,
+	    ISQCMC_meichanetzidis: `[1] K. Meichanetzidis, “Quantum Music Generators”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206707.`,
 
-	    ISQCMC_schwarzer: `[1]A. Schwarzer, “Quantum Harmonies: An Artistic Exploration of Geiger Counter Measurements and Simulated Quantum Circuitry”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206695.`,
+	    ISQCMC_rocchesso: `[1] D. Rocchesso, “Exploration of Quantum Feedback Delay Networks”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206705.`,
 
-	    ISQCMC_smith: `[1]W. Smith, D. Volkovand A. Alani, “Sonifying Quantum Superpositions by Correlating State Probability to Rhythmic Density”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206656.`,
+	    ISQCMC_schwarzer: `[1] A. Schwarzer, “Quantum Harmonies: An Artistic Exploration of Geiger Counter Measurements and Simulated Quantum Circuitry”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206695.`,
 
-	    ISQCMC_topel: `[1]S. Topel and P. Kuklinski, “Quantum Circuit Simulations on Multi-Channel Sound Systems”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206646.`,
+	    ISQCMC_smith: `[1] W. Smith, D. Volkovand A. Alani, “Sonifying Quantum Superpositions by Correlating State Probability to Rhythmic Density”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206656.`,
 
-	    ISQCMC_utku: `[1]E. Utku, “Constrained Randomness in Musical Form Using Quantum Computational Algorithms”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206642.`,
+	    ISQCMC_topel: `[1] S. Topel and P. Kuklinski, “Quantum Circuit Simulations on Multi-Channel Sound Systems”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206646.`,
 
-	    ISQCMC_wootton: `[1]J. Wootton and M. Pfaffhauser, “Investigating the usefulness of Quantum Blur”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206640.`,
+	    ISQCMC_utku: `[1] E. Utku, “Constrained Randomness in Musical Form Using Quantum Computational Algorithms”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206642.`,
 
-	    ISQCMC_yamada: `[1]R. Yamada, E. Piñol, S. Grandi, J. Zakrzewskiand M. Lewenstein, “Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner functions, and Quantum Simulators”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206508.`,
+	    ISQCMC_wootton: `[1] J. Wootton and M. Pfaffhauser, “Investigating the usefulness of Quantum Blur”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206640.`,
 
-	    ISQCMC_yanez: `[1]M. A. Yáñez, “Developing a Quantum Step-sequencer”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206500.`
+	    ISQCMC_yamada: `[1] R. Yamada, E. Piñol, S. Grandi, J. Zakrzewskiand M. Lewenstein, “Towards the Intuitive Understanding of Quantum World: Sonification of Rabi Oscillations, Wigner functions, and Quantum Simulators”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206508.`,
+
+	    ISQCMC_yanez: `[1] M. A. Yáñez, “Developing a Quantum Step-sequencer”, presented at the 2nd International Symposium on Quantum Computing and Musical Creativity (ISQCMC Berlin), Berlin, Oct. 2023. doi: 10.5281/zenodo.10206500.`,
+
+	    QuantumComputerMusic2022: `[1] E. R. Miranda, Ed., Quantum Computer Music: Foundations, Methods and Advanced Concepts. Cham: Springer International Publishing, 2022. doi: 10.1007/978-3-031-13909-3.`
 	}
 
 </script>
