@@ -52,14 +52,14 @@
     </script>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
+      <h1 id="header"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        2023 website created by <a style="color:grey" href="https://omarcostahamido.com">OCH</a> and <a style="color:grey" href="https://itabora.space/">Itaborala</a> on {% github_edit_link "GitHub" %}.
+        2023-2024 website created by <a style="color:grey" href="https://omarcostahamido.com">OCH</a> and <a style="color:grey" href="https://itabora.space/">Itaborala</a> on {% github_edit_link "GitHub" %}.
       </div>
       {% endif %}
     </div>
