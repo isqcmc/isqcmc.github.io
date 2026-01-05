@@ -3,7 +3,6 @@
 Below you will see the index of individual papers for each ISQCMC Proceedings edition. Please note that PDFs are archived in the [Zenodo Community portal](https://zenodo.org/communities/isqcmc_proceedings/).
 
 ### 2025 - ISQCMC '25 - University of Palermo
-#### _Paper Proceedings_
 
 - Abdyssagin, R., & Coecke, B. (2025). _Quantum Concept Music Score from Quantum Picturalism: Musical Incarnation of a Bell-Pair under Measurements_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
@@ -38,7 +37,6 @@ Below you will see the index of individual papers for each ISQCMC Proceedings ed
 - Zheng, Z., & Yang, W. (2025). _Quantum Gate Optimization and Automated Composition Controller Implementation for the Q1 Synth_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
 ### 2023 - ISQCMC Berlin - DESY
-#### _Paper Proceedings_
 
 Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd international symposium on quantum computing and musical creativity (ISQCMC Berlin). Zenodo. [https://isqcmc.github.io/Proceedings](https://isqcmc.github.io/Proceedings) <citebutton-component indexkey="ISQCMC_BerlinProceedings" year="2023"></citebutton-component>
 
@@ -71,7 +69,6 @@ Hamido, O. C., & Itaboraí, P. V. (Eds.). (2023). Proceedings of the 2nd interna
 - Yáñez, M. A. (2023). _Developing a Quantum Step-sequencer_. **PDF/DOI: [10.5281/zenodo.10206500](https://doi.org/10.5281/zenodo.10206500)** <citebutton-component indexkey="ISQCMC_yanez" year="2023"></citebutton-component>
 
 ### 2021 - 1st ISQCMC - University of Plymouth (online)
-#### _Paper Proceedings_ 
 
 Paper Proceedings for this edition are not available. However, please note that several papers from this edition have evolved into book chapters in:
 
