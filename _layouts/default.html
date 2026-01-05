@@ -14,22 +14,22 @@
   <body>
     {% include bibISQCMC.html %}
     <script type="text/javascript">
-      function copyCitation(elem, parent, item){
+      function copyCitation(elem, parent, item, year){
         var copyText;
         if (elem.value == "BibTeX") {
-          copyText = bibtexISQCMC[item];
+          copyText = bibtexISQCMC[year][item];
         } else if (elem.value == "APA") {
-          copyText = apaISQCMC[item];
+          copyText = apaISQCMC[year][item];
         } else if (elem.value == "Harvard") {
-          copyText = harvardISQCMC[item];
+          copyText = harvardISQCMC[year][item];
         } else if (elem.value == "MLA") {
-          copyText = mlaISQCMC[item];
+          copyText = mlaISQCMC[year][item];
         } else if (elem.value == "Vancouver") {
-          copyText = vancouverISQCMC[item];
+          copyText = vancouverISQCMC[year][item];
         } else if (elem.value == "Chicago") {
-          copyText = chicagoISQCMC[item];
+          copyText = chicagoISQCMC[year][item];
         } else if (elem.value == "IEEE") {
-          copyText = ieeeISQCMC[item];
+          copyText = ieeeISQCMC[year][item];
         } else {
           return;
         }
