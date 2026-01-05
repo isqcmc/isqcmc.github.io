@@ -14,20 +14,17 @@ More detailed author information including paper types can be found in the [Subm
 
 **Guest Editors:**
 
-[**Dr. Maria Mannone**]()<br>
+[**Dr. Maria Mannone**](http://mariamannone.com/)<br>
 ICAR - Consiglio Nazionale delle Ricerche, Italy<br>
 University of Potsdam, Germany<br>
-Email: <br>
 
 [**Paulo Vitor Itaboraí**](https://itabora.space/) <br>
 Deutsches Elektronen-Synchrotron DESY, Germany<br>
 The Cyprus Institute, Cyprus<br>
-Email: <br>
 
 [**Dr. Omar Costa Hamido**](https://omarcostahamido.com)<br>
 The Hong Kong University of Science and Technology (Guangzhou), China<br>
 PQI - Portuguese Quantum Institute, Portugal<br>
-Email: omarhamido@hkust-gz.edu.cn<br>
 
 **Open Access:** EPJST is a hybrid journal offering Open Access publication via the [Open Choice programme](https://www.springer.com/gp/open-access/springer-open-choice) and a growing number of [Transformative Agreements](https://www.springernature.com/gp/open-research/oa-agreements). If the institution of the CORRESPONDING AUTHOR is part of such a Transformative Agreement, the Open Access fee will be covered by the agreement partner. All agreements are listed with more details under [TRANSFORMATIVE Agreements](https://www.springernature.com/gp/open-research/oa-agreements). Eligibility will be automatically verified when the corresponding author is requested to complete the relevant affiliation information after acceptance of the paper during the production process. Corresponding authors not affiliated to institutes with Transformative Agreements are redirected to proceed with “Please select your publishing model” and have to decide between paying the current [Open Access fee](https://www.springer.com/journal/11734/how-to-publish-with-us#Fees%20and%20Funding) or choosing the subscription option without any publication charges. 
 
