@@ -34,3 +34,45 @@ Music Proceedings of the 3rd international symposium on quantum computing and mu
 
 - Zheng, Z., & Yang, W. (2025). _Seeking: High Mountains and Flowing Water_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
+
+
+### 2023 - ISQCMC Berlin - DESY
+
+A Proceedings for this edition is currently not available. However, the musical performances and demos presented on ISQCMC Berlin are listed below.
+
+The full music program notes is available in the [ISQCMC Berlin Website](https://indico.desy.de/event/38609/page/4709-music-program-notes).
+
+#### _Electroacoustic Music_
+
+- Utku, E. (2023). _Schweigen_.
+
+- Itaboraí, P. V. (2022/23). _Rasgar, Saber_.
+
+- Topel, S. (2022). _Alice Apple_.
+
+#### _Musical Demos_
+
+- Smith, W. (2022). _The Sound of Molecules_.
+
+- Ingmanson, B., & Weaver, J. L. (2023). _Collaborating Musically with a Hilbert Space_.
+
+#### _Telematic Music_
+
+- Itaboraí, P. V., & Vicente, D. (2023). _Rever_.
+
+- Hamido, O. C., & Oshiro, S. (2023). _/Equations of Coltrane_.
+
+
+### 2021 - 1st ISQCMC - University of Plymouth (online)
+
+A Proceedings for this edition is currently not available. However, the musical performances and demos presented on the 1st ISQCMC are listed below.
+
+The music program with links to video recordings is available in the [1st ISQCMC Website](https://iccmr-quantum.github.io/1st_isqcmc/).
+
+#### _Musical Demonstrations_
+
+- Miranda, E. R. (2019). _Zeno_.
+
+- Hamido, O. C. (2020). _Second Cornerstone_.
+
+- Topel, S., Burkhart, L., Serniak, K., & Carle, F. (2021). _Quantum Sound: A Live Performance of Superconducting Instruments_.
