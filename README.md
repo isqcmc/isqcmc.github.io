@@ -7,6 +7,8 @@ Welcome to the page for the **ISQCMC**!
 <p align="center">
   <a href="/Proceedings"><strong> Paper Proceedings </strong></a>
   <br>
+  <br>
+  <a href="/Music"><strong> Music Proceedings </strong></a>
 </p>
 <br>
 <br>
