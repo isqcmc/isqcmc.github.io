@@ -4,37 +4,37 @@ Below you will see the index of individual papers for each ISQCMC Proceedings ed
 
 ### 2025 - ISQCMC '25 - University of Palermo
 
-- Abdyssagin, R., & Coecke, B. (2025). _Quantum Concept Music Score from Quantum Picturalism: Musical Incarnation of a Bell-Pair under Measurements_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Abdyssagin, R., & Coecke, B. (2025). _Quantum Concept Music Score from Quantum Picturalism: Musical Incarnation of a Bell-Pair under Measurements_. **PDF/DOI: [10.5281/zenodo.18206893](https://doi.org/10.5281/zenodo.18206893) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Alani, A., & Miranda, E. R. (2025). _Simulating a Quantum Gate Distortion Effect with the Quantum Audio Python Package_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Alani, A., & Miranda, E. R. (2025). _Simulating a Quantum Gate Distortion Effect with the Quantum Audio Python Package_. **PDF/DOI: [10.5281/zenodo.18206868](https://doi.org/10.5281/zenodo.18206868) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Coecke, B. (2025). _A Quantum Guitar_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Coecke, B. (2025). _A Quantum Guitar_. **PDF/DOI: [10.5281/zenodo.18206841](https://doi.org/10.5281/zenodo.18206841) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Dobrian, C., & Hamido, O. C. (2025). _Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in Rhythm, Timbre, Harmony, and Space_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Dobrian, C., & Hamido, O. C. (2025). _Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in Rhythm, Timbre, Harmony, and Space_. **PDF/DOI: [10.5281/zenodo.18206785](https://doi.org/10.5281/zenodo.18206785) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Evgi, H. H. B. (2025). _The Quantum Colour of Sound_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Evgi, H. H. B. (2025). _The Quantum Colour of Sound_. **PDF/DOI: [10.5281/zenodo.18206713](https://doi.org/10.5281/zenodo.18206713) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Hull, I., & Hull, M. (2025). _Generating (Constraint-) Satisfying Melodies on a Neutral Atom Quantum Computer_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Hull, I., & Hull, M. (2025). _Generating (Constraint-) Satisfying Melodies on a Neutral Atom Quantum Computer_. **PDF/DOI: [10.5281/zenodo.18206631](https://doi.org/10.5281/zenodo.18206631) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Klassen, M. (2025). _Sonification of Quantum Algorithms with Spline Models of Timbre, Melody, and Rhythm_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Klassen, M. (2025). _Sonification of Quantum Algorithms with Spline Models of Timbre, Melody, and Rhythm_. **PDF/DOI: [10.5281/zenodo.18206573](https://doi.org/10.5281/zenodo.18206573) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Mannone, M., Itaboraí, P. V., Hamido, O. C., Goldack, M., Marwan, N., Fazio, P., & Ribino, P. (2025). _Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Mannone, M., Itaboraí, P. V., Hamido, O. C., Goldack, M., Marwan, N., Fazio, P., & Ribino, P. (2025). _Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling_. **PDF/DOI: [10.5281/zenodo.18206481](https://doi.org/10.5281/zenodo.18206481) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Miranda, E. R. (2025). _Observe and Revisit: Procedural Music Generation with Cellular Automata on Quantum Hardware_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Miranda, E. R. (2025). _Observe and Revisit: Procedural Music Generation with Cellular Automata on Quantum Hardware_. **PDF/DOI: [10.5281/zenodo.18203968](https://doi.org/10.5281/zenodo.18203968) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Noll, T., Olives, F. P., González-Fernández, P., & beim Graben, P. (2025). _Exploring Quantum Tonality_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Noll, T., Olives, F. P., González-Fernández, P., & beim Graben, P. (2025). _Exploring Quantum Tonality_. **PDF/DOI: [10.5281/zenodo.18203933](https://doi.org/10.5281/zenodo.18203933) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Papageorgiou, A., Itaboraí, P. V., Blekos, K., & Jansen, K. (2025). _Processing through encoding: Quantum circuit approaches for point-wise multiplication and convolution_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Papageorgiou, A., Itaboraí, P. V., Blekos, K., & Jansen, K. (2025). _Processing through encoding: Quantum circuit approaches for point-wise multiplication and convolution_. **PDF/DOI: [10.5281/zenodo.18203912](https://doi.org/10.5281/zenodo.18203912) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Rocchesso, D. (2025). _Sound Space is Threefold_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Rocchesso, D. (2025). _Sound Space is Threefold_. **PDF/DOI: [10.5281/zenodo.18203904](https://doi.org/10.5281/zenodo.18203904) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Souma, S. (2025). _Development of an Interactive Sound Generation System Based on Quantum Game Theory_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Souma, S. (2025). _Development of an Interactive Sound Generation System Based on Quantum Game Theory_. **PDF/DOI: [10.5281/zenodo.18203887](https://doi.org/10.5281/zenodo.18203887) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Tudoce, J., Płodzień, M., Lewenstein, M., & Yamada, R. (2025). _Sonification of entanglement dynamics in many-qubit systems_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Tudoce, J., Płodzień, M., Lewenstein, M., & Yamada, R. (2025). _Sonification of entanglement dynamics in many-qubit systems_. **PDF/DOI: [10.5281/zenodo.18203860](https://doi.org/10.5281/zenodo.18203860) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Yáñez, M. A., Bultrini, D., & Miranda, E. R. (2025). _Quantum Delay Effect: Optimization & Next Steps_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Yáñez, M. A., Bultrini, D., & Miranda, E. R. (2025). _Quantum Delay Effect: Optimization & Next Steps_. **PDF/DOI: [10.5281/zenodo.18203773](https://doi.org/10.5281/zenodo.18203773) <span style="color:blue;">**Cite Me TBD**</span>**
 
-- Zheng, Z., & Yang, W. (2025). _Quantum Gate Optimization and Automated Composition Controller Implementation for the Q1 Synth_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Zheng, Z., & Yang, W. (2025). _Quantum Gate Optimization and Automated Composition Controller Implementation for the Q1 Synth_. **PDF/DOI: [10.5281/zenodo.18203658](https://doi.org/10.5281/zenodo.18203658) <span style="color:blue;">**Cite Me TBD**</span>**
 
 ### 2023 - ISQCMC Berlin - DESY
 
