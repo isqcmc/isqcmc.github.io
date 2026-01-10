@@ -42,6 +42,9 @@ PQI - Portuguese Quantum Institute, Portugal<br>
 - Concerning images, the authors are required to submit also the gray-scale version of the colored images.
 - Submissions are possible through the [EPS-ST website](https://www.editorialmanager.com/epjs/).
 
+
+[See also: [EPJ-ST journal website call page](https://epjst.epj.org/epjst-open-calls-for-papers/2965-epj-st-collection-quantum-computing-and-musical-creativity-exploring-new-intersections)]
+
 <style>
 	p { text-align: justify; }
 </style>
