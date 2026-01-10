@@ -12,9 +12,9 @@ Below you will see the index of individual papers for each ISQCMC Proceedings ed
 
 - Dobrian, C., & Hamido, O. C. (2025). _Techniques for Quantum-Computing-Aided Algorithmic Composition: Experiments in Rhythm, Timbre, Harmony, and Space_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
-- Hull, I., & Hull, M. (2025). _Generating (Constraint-) Satisfying Melodies on a Neutral Atom Quantum Computer_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Evgi, H. H. B. (2025). _The Quantum Colour of Sound_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
-- Ivgy, H. H. B. (2025). _The Quantum Colour of Sound_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Hull, I., & Hull, M. (2025). _Generating (Constraint-) Satisfying Melodies on a Neutral Atom Quantum Computer_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
 - Klassen, M. (2025). _Sonifying Quantum Algorithms with Spline Models of Timbre, Melody, and Rhythm_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
