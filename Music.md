@@ -8,7 +8,7 @@ This edition contains a Music Proceedings comprised of a PDF file with abstracts
 To cite a work featured in this procedings, please use the following reference:;
 
 
-Mannone, M., Costa Hamido, O., & Itaboraí, P. V. (2026). ISQCMC '25: Music Abstract Booklet. 3rd International Symposium on Quantum Computing and Musical Creativity (ISQCMC '25). Zenodo. [https://isqcmc.github.io/Music](https://isqcmc.github.io/Music)  **PDF/DOI: [10.5281/zenodo.18208406](https://doi.org/10.5281/zenodo.18208406) <span style="color:blue;">**Cite Me Button TBC**</span>**
+Mannone, M., Hamido, O. C., & Itaboraí, P. V. (2026). ISQCMC '25: Music Abstract Booklet. 3rd International Symposium on Quantum Computing and Musical Creativity (ISQCMC '25). Zenodo. [https://isqcmc.github.io/Music](https://isqcmc.github.io/Music)  **PDF/DOI: [10.5281/zenodo.18208406](https://doi.org/10.5281/zenodo.18208406) <span style="color:blue;">**Cite Me Button TBC**</span>**
 
 #### _List of Works_
 
