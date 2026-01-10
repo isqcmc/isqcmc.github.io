@@ -22,7 +22,7 @@ Below you will see the index of individual papers for each ISQCMC Proceedings ed
 
 - Miranda, E. R. (2025). _Observe and Revisit: Procedural Music Generation with Cellular Automata on Quantum Hardware_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
-- Noll, T., Olives, F. P., & beim Graben, P. (2025). _Exploring Quantum Tonality_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Noll, T., Olives, F. P., González-Fernández, P., & beim Graben, P. (2025). _Exploring Quantum Tonality_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
 - Papageorgiou, A., Itaboraí, P. V., Blekos, K., & Jansen, K. (2025). _Processing through encoding: Quantum circuit approaches for point-wise multiplication and convolution_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
