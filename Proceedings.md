@@ -16,7 +16,7 @@ Below you will see the index of individual papers for each ISQCMC Proceedings ed
 
 - Hull, I., & Hull, M. (2025). _Generating (Constraint-) Satisfying Melodies on a Neutral Atom Quantum Computer_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
-- Klassen, M. (2025). _Sonifying Quantum Algorithms with Spline Models of Timbre, Melody, and Rhythm_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
+- Klassen, M. (2025). _Sonification of Quantum Algorithms with Spline Models of Timbre, Melody, and Rhythm_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
 - Mannone, M., Itaboraí, P. V., Hamido, O. C., Goldack, M., Marwan, N., Fazio, P., & Ribino, P. (2025). _Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling_. **PDF/DOI: <span style="color:blue;">**TBD**</span>**
 
