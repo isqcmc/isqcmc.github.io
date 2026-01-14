@@ -22,7 +22,7 @@ Mannone, M., Hamido, O. C., & Itaboraí, P. V. (Eds.). (2026). Proceedings of th
 
 - Mannone, M., Itaboraí, P. V., Hamido, O. C., Goldack, M., Marwan, N., Fazio, P., & Ribino, P. (2026). _Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling_. **PDF/DOI: [10.5281/zenodo.18206481](https://doi.org/10.5281/zenodo.18206481)** <citebutton-component indexkey="ISQCMC25_mannone" year="2025"></citebutton-component>
 
-- Mannone, M., Chudy, M., de Souza Stolfi, A., Wilkie, S., Binda Heiserova, S., & Brown, N. (2025). _Quantum Circuits, HyperCubeHarmonic, and Improvisation: a Case Study of a Remote Networked Performance of the Female Laptop Orchestra
+- Mannone, M., Chudy, M., de Souza Stolfi, A., Wilkie, S., Binda Heiserova, S., & Brown, N. (2026). _Quantum Circuits, HyperCubeHarmonic, and Improvisation: a Case Study of a Remote Networked Performance of the Female Laptop Orchestra_. **PDF/DOI: [10.5281/zenodo.18244748](https://doi.org/10.5281/10.5281/zenodo.18244748)** <citebutton-component indexkey="ISQCMC25_mannone2" year="2025"></citebutton-component>
 
 - Miranda, E. R. (2026). _Observe and Revisit: Procedural Music Generation with Cellular Automata on Quantum Hardware_. **PDF/DOI: [10.5281/zenodo.18203968](https://doi.org/10.5281/zenodo.18203968)** <citebutton-component indexkey="ISQCMC25_miranda" year="2025"></citebutton-component>
 
