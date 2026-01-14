@@ -24,8 +24,6 @@ Mannone, M., Hamido, O. C., & Itaboraí, P. V. (Eds.). (2026). ISQCMC '25: Music
 
 - Kontogeorgakopoulos, A., & Burgarth, D. (2025). _quantum music #001_. 
 
-- Mannone, M., Chudy, M., de Souza Stolfi, A., Wilkie, S., Binda Heiserova, S., & Brown, N. (2025). _Quantum Circuits, HyperCubeHarmonic, and Improvisation: a Case Study of a Remote Networked Performance of the Female Laptop Orchestra [+ Telematic City Jam - Glasgow]_. 
-
 - Tabacchi, M. E. (2025). _(position xor velocity) redux_. 
 
 - Utku, E. (2025). _The Veil_. 
