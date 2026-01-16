@@ -8,7 +8,7 @@ Mannone, M., Hamido, O. C., & Itaboraí, P. V. (Eds.). (2026). Proceedings of th
 
 - Abdyssagin, R., & Coecke, B. (2026). _Quantum Concept Music Score from Quantum Picturalism: Musical Incarnation of a Bell-Pair under Measurements_. **PDF/DOI: [10.5281/zenodo.18206893](https://doi.org/10.5281/zenodo.18206893)** <citebutton-component indexkey="ISQCMC25_abdyssagin" year="2025"></citebutton-component>
 
-- Alani, A., & Miranda, E. R. (2026). _Simulating a Quantum Gate Distortion Effect with the Quantum Audio Python Package_. **PDF/DOI: [10.5281/zenodo.18206868](https://doi.org/10.5281/zenodo.18206868)** <citebutton-component indexkey="ISQCMC25_alani" year="2025"></citebutton-component>
+- Alani, A., & Miranda, E. R. (2026). _Simulating Quantum Gate Distortion Effects with the Quantum Audio Python Package_. **PDF/DOI: [10.5281/zenodo.18206868](https://doi.org/10.5281/zenodo.18206868)** <citebutton-component indexkey="ISQCMC25_alani" year="2025"></citebutton-component>
 
 - Coecke, B. (2026). _A Quantum Guitar_. **PDF/DOI: [10.5281/zenodo.18206841](https://doi.org/10.5281/zenodo.18206841)** <citebutton-component indexkey="ISQCMC25_coecke" year="2025"></citebutton-component>
 
