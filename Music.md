@@ -14,7 +14,7 @@ Mannone, M., Hamido, O. C., & Itaboraí, P. V. (Eds.). (2026). ISQCMC '25: Music
 
 - Abdyssagin, R., & Coecke, B. (2025). _Quantum Guitar_. 
 
-- Alani, A. (2025). _Q-bars_. 
+- Alani, A. (2025). _Q-Bars_. 
 
 - Doran, K. (2025). _Quantum Loops_. 
 
