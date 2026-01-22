@@ -6,7 +6,7 @@ Following the intuition of Gabor, Nobel Prize for Physics, not only music can pr
 While music belongs to the realm of classical physics, the adoption of concepts and computational tools inspired by the quantum realm, such as quantum computing, can add a further dimension to music analysis, perception theories, modeling of the complexity of timbre, even enhancement or re-thinking of the musical instruments. In turn, musical expression could also be used in providing necessary intuition to emerging quantum technologies and their new paradigms.
 The exploration of different approaches to fundamental concepts of quantum mechanics through the world of musical sounds (superposition, coherences, measurement), jointly with the potentiality of quantum computing, are the themes of the present special issue. Topics include, but are not limited to, vocal theory analysis, quantum algorithms in music (Partitioned Quantum Cellular Automaton), quantum-computing aided composition, quantum signal processing (Quantum Probability Amplitude Modulation), music information retrieval, hybrid quantum-classical architectures, quantum machine learning, quantum natural language processing, quantum aesthetics, quantum computational musicology, sonification of quantum processes and phenomena.
 
-**🕓 Submission deadline: 1 February 2026**
+**🕓 Submission deadline: ~~<span style="color: gray;">01 February 2026</span>~~ 16 February 2026**
 
 Articles should be submitted to the Editorial Office of EPJ ST via the [submission system](https://www.editorialmanager.com/epjs/), and should be clearly identified as intended for the topical issue _"Quantum Computing and Musical Creativity: Exploring new Intersections."_.
 
