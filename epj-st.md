@@ -1,4 +1,4 @@
-# European Physical Journal, Special Topics ([EPJ-ST](https://epjst.epj.org/epjst-open-calls-for-papers?limitstart=0)) Quantum Computing and Musical Creativity: Exploring new Intersections
+# European Physical Journal, Special Topics ([EPJ-ST](https://link.springer.com/collections/cfciijjhjh)) Quantum Computing and Musical Creativity: Exploring new Intersections
 
 **Guest Editors: Maria Mannone, Paulo Vitor Itaboraí, and Omar Costa Hamido**
 
@@ -43,7 +43,7 @@ PQI - Portuguese Quantum Institute, Portugal<br>
 - Submissions are possible through the [EPS-ST website](https://www.editorialmanager.com/epjs/).
 
 
-[See also: [EPJ-ST journal website call page](https://epjst.epj.org/epjst-open-calls-for-papers/2965-epj-st-collection-quantum-computing-and-musical-creativity-exploring-new-intersections)]
+[See also: [EPJ-ST journal issue website page](https://link.springer.com/collections/cfciijjhjh)]
 
 <style>
 	p { text-align: justify; }
