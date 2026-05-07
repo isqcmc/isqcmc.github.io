@@ -1,6 +1,6 @@
 Welcome to the page for the **ISQCMC**!
 
-<h3 align="center"><a href="/epj-st"><strong>Open CFP for EPJ-ST!</strong></a></h3>
+<h3 align="center"><a href="/epj-st"><strong>(Closed) CFP for EPJ-ST!</strong></a></h3>
 &nbsp;
 <h3 align ="center"><strong> &nbsp;&nbsp;&nbsp; Proceedings </strong></h3>
 &nbsp;
